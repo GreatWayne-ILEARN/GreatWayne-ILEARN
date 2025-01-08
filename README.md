@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @GreatWayne-ILEARN
-- 👀 I’m interested in Coding 
-- 🌱 I’m currently learning HTML & CSS 
-- 💞️ I’m looking to collaborate on WORKING WITH YOU 
-- 📫 How to reach me madwisdom25@gmail.com
+- 👨‍💻 Software Developer
+- 🌱 Frontend, Backend, & Responsive design  
+- 💞️ I’m looking to collaborate and WORKING WITH YOU 
+- 📫 How to reach me oluwashunwisdom@yahoo.com
 
 <!---
 GreatWayne-ILEARN/GreatWayne-ILEARN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
