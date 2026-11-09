@@ -5,7 +5,7 @@
 
 I build reliable, accessible, and maintainable web applications, with additional experience developing cross-platform mobile apps.
 
-[Portfolio](https://ubani-webpage.vercel.app) · [LinkedIn](https://linkedin.com/in/adegboyega-wisdom) · [Email](mailto:ubani.hub@gmail.com)
+[Portfolio](https://wisdomadegboyega.vercel.app/) · [LinkedIn](https://linkedin.com/in/adegboyega-wisdom) · [Email](mailto:ubani.hub@gmail.com)
 
 ---
 
